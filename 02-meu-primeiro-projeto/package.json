@@ -1,0 +1,16 @@
+{
+  "name": "02-meu-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "Meu projeto NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"Olá Mundo\" && exit"
+  },
+  "keywords": [
+    "project",
+    "minha api"
+  ],
+  "author": "Wagner Andrade",
+  "license": "ISC"
+}
